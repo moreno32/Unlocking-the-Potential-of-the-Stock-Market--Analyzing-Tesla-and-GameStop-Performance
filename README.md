@@ -7,8 +7,9 @@ This project aims to provide a comprehensive analysis of the stock performance o
 ![Category and Subcategory](https://img.shields.io/badge/Extraction-Beautiful%20Soup%20Library-yellow)
 
 ## 🖼️ Images of the Project:
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Unlocking-the-Potential-of-the-Stock-Market:-Analyzing-Tesla-and-GameStop-Performance/master/reports/figures/Analyzing-Tesla-and-GameStop-Performance_gamestop.png" width="700" height="318" /><br>
-<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Unlocking-the-Potential-of-the-Stock-Market:-Analyzing-Tesla-and-GameStop-Performance/master/reports/figures/Analyzing-Tesla-and-GameStop-Performance_tesla.png" width="700" height="315" /><br>
+<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Unlocking-the-Potential-of-the-Stock-Market--Analyzing-Tesla-and-GameStop-Performance/master/reports/figures/Analyzing-Tesla-and-GameStop-Performance_gamestop.png" width="700" height="318" /><br>
+
+<img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Unlocking-the-Potential-of-the-Stock-Market--Analyzing-Tesla-and-GameStop-Performance/master/reports/figures/Analyzing-Tesla-and-GameStop-Performance_tesla.png" width="700" height="315" /><br>
 
 ## 🎊 Motivation:
 Understanding the stock market and the performance of companies is crucial for informed investment decisions. This project provides a unique opportunity to analyze the stock performance of two companies that have recently gained significant attention in the market. By providing a comprehensive analysis, the project aims to provide valuable insights to investors and traders.
